@@ -6,7 +6,9 @@
 CCTV-1,CCTV1综合
 CCTV-2,CCTV2财经
 CCTV-3,CCTV3综艺
-CCTV-4,CCTV4中文国际
+CCTV-4,CCTV4中文国际,中文国际
+CCTV-4欧洲,CCTV4中文国际欧洲,中文国际欧洲
+CCTV-4美洲,CCTV4中文国际美洲,中文国际美洲
 CCTV-5,CCTV5体育
 CCTV-5+,CCTV5+体育,CCTV5+体育赛事
 CCTV-6,CCTV6电影
