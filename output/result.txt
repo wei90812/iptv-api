@@ -1005,6 +1005,8 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
 咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-fea9ed9b2105c8e66da382be47a0acae
 咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-8cb875770938fdeb7179752f74e13062
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
+十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&amp;amp%3Btpid=868100086
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-3.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-2.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-4.m3u8
