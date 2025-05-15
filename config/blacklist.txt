@@ -4,3 +4,4 @@
 rthktv33-live.akamaized.net
 satellitepull.cnr.cn
 event.pull.hebtv.com
+/udp/
