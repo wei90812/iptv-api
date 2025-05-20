@@ -5,3 +5,8 @@ rthktv33-live.akamaized.net
 satellitepull.cnr.cn
 event.pull.hebtv.com
 /udp/
+epg.pw
+www.freetv.top
+api.mytv666.top
+tvbox6.icu
+ali-m-l.cztv.com
