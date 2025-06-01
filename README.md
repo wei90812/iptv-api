@@ -92,19 +92,19 @@
 - 默认
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/wei90812/iptv-api/master/output/result.m3u
 ```
 
 - IPv6
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/wei90812/iptv-api/master/output/ipv6/result.m3u
 ```
 
 - IPv4
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/wei90812/iptv-api/master/output/ipv4/result.m3u
 ```
 
 ### 点播源
