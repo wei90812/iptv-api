@@ -825,6 +825,7 @@ CGTN法语,http://61.138.99.166:10080/hls/23/index.m3u8
 陕西卫视,http://42.49.26.204:9999/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 陕西卫视,http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://livepull-tcyzb.sztv.com.cn/4KBack.m3u8
 深圳卫视,http://110.72.103.195:808/hls/1008/index.m3u8
 深圳卫视,http://110.72.103.185:808/hls/1008/index.m3u8
 深圳卫视,http://110.72.103.15:808/hls/1008/index.m3u8
