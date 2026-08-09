@@ -96,6 +96,7 @@ CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
 恩施文旅频道,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 麻城综合,https://video.yscxy.cn:8888/mctv1.m3u8?t=${Date.now()}
 广州新闻,webview://http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州综合,webview://https://www.gztv.com/#/channel
 广州综合,webview://http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,webview://https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 广州综合,webview://https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
