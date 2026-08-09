@@ -95,3 +95,13 @@ CGTN法语,webview://https://yangshipin.cn/tv/home?pid=600084704
 恩施新闻综合,https://46240-live.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3724.m3u8?auth_key=3328907803-0-0-321fd94de673ddac51716682fcb59297&extra_key=otZkd8cRloD44exAcfs76VOKG0XxTIC_6EDN2NNyydxkHXO7SomobKCJ5pmP3ccWbAiKKFTBhCrxNiU592hEpO7_524eRtN2aE93uigIzbz68_WjbTJH9RM4h_VYBFPtQVk6Kfup5BnPHGpZjWXVBr2fq_1u-rkYE98yQjb2gqU
 恩施文旅频道,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 麻城综合,https://video.yscxy.cn:8888/mctv1.m3u8?t=${Date.now()}
+广州新闻,webview://http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州综合,webview://http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州综合,webview://https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+广州综合,webview://https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
+南国都市,webview://https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+南国都市,webview://http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+深圳卫视4k,webview://webview://https://sztv-live.sztv.com.cn/R77mK1v/500/473Rw70.m3u8?sign=ceec30a61dd5586c5649346a70303d77&t=6a78760f
+深圳卫视,webview://https://sztv-live.sztv.com.cn/AxeFRth/500/047Awe0.m3u8?sign=41cfd5644bef5ff3c57e0819369e4e18&t=6a787640
+深圳都市,webview://https://sztv-live.sztv.com.cn/ZwxzUXr/500/d1uZwx0.m3u8?sign=7bd2ae02985922cfbf997e940e9a0e7f&t=6a787662
+深圳都市电视剧,webview://https://sztv-live.sztv.com.cn/4azbkoY/500/g3r4wz0.m3u8?sign=7660a62c47e9e2cdedcd43c0441c33a3&t=6a787681
