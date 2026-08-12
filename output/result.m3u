@@ -2007,10 +2007,16 @@ http://114.135.1.187:9999/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=0&amp;
 http://125.43.243.181:85/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/湖北经视.png" group-title="☘️地方频道", 湖北经视
 http://59.175.9.124:7777/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/武汉教育.png" group-title="☘️地方频道", 武汉教育
+https://act-pull.whjyapp.com/live/media70c1bb4720fa939469b2dcc413f8bb55.m3u8?txSecret=10236fe3ac3932b96085c6d55fc993e0&txTime=6A79BCB0
+#EXTINF:-1 tvg-name="武汉综合" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/武汉综合.png" group-title="☘️地方频道", 武汉综合
+https://livestream.hannews.com.cn/hannews/1511-hannews.m3u8?txSecret=d5f030dd267db26d2311752e7cfcea76&txTime=6B352A80
 #EXTINF:-1 tvg-name="赤壁综合" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/赤壁综合.png" group-title="☘️地方频道", 赤壁综合
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90d01dc5111710ab4196d08997323917
 #EXTINF:-1 tvg-name="崇阳综合" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/崇阳综合.png" group-title="☘️地方频道", 崇阳综合
 http://61.184.176.248:10500/live/live.m3u8
+#EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/恩施文旅.png" group-title="☘️地方频道", 恩施文旅
+https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 #EXTINF:-1 tvg-name="恩施新闻" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/恩施新闻.png" group-title="☘️地方频道", 恩施新闻
 https://46240-live.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3724.m3u8?auth_key=3328907803-0-0-321fd94de673ddac51716682fcb59297&extra_key=otZkd8cRloD44exAcfs76VOKG0XxTIC_6EDN2NNyydxkHXO7SomobKCJ5pmP3ccWbAiKKFTBhCrxNiU592hEpO7_524eRtN2aE93uigIzbz68_WjbTJH9RM4h_VYBFPtQVk6Kfup5BnPHGpZjWXVBr2fq_1u-rkYE98yQjb2gqU
 #EXTINF:-1 tvg-name="荆门科技文旅" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/荆门科技文旅.png" group-title="☘️地方频道", 荆门科技文旅
@@ -2027,6 +2033,8 @@ https://video.yscxy.cn:8888/mctv1.m3u8
 https://p8.vzan.com/slowlive/701367497774448672/live.m3u8?zbid=351104&amp;tpid=1550600621
 #EXTINF:-1 tvg-name="十堰新闻综合" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/十堰新闻综合.png" group-title="☘️地方频道", 十堰新闻综合
 https://p8.vzan.com/slowlive/687885422202942639/live.m3u8?zbid=351104&amp;tpid=622879110
+#EXTINF:-1 tvg-name="咸宁综合" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/咸宁综合.png" group-title="☘️地方频道", 咸宁综合
+webview://https://app.cjyun.org/video/player/index?vid=91&sid=10140&autoStart=1&type=stream
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/湖南电影.png" group-title="☘️地方频道", 湖南电影
 http://118.249.6.254:8082/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/LOGO/金鹰纪实.png" group-title="☘️地方频道", 金鹰纪实
