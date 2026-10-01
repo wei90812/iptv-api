@@ -468,6 +468,8 @@ CGTN,http://221.232.196.210:7777/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&a
 湖北经视,http://221.232.199.112:7777/tsfile/live/0132_3.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://221.232.199.59:7777/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://221.232.196.210:7777/tsfile/live/0132_3.m3u8?key=txiptv&playlive=1&authid=0
+武汉新闻综合,https://livestream.hannews.com.cn/hannews/1511-hannews.m3u8?txSecret=d5f030dd267db26d2311752e7cfcea76&txTime=6B352A80
+武汉教育,https://act-pull.whjyapp.com/live/media70c1bb4720fa939469b2dcc413f8bb55.m3u8?txSecret=10236fe3ac3932b96085c6d55fc993e0&txTime=6A79BCB0
 赤壁电视台,https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90d01dc5111710ab4196d08997323917
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 麻城综合,https://video.yscxy.cn:8888/mctv1.m3u8
@@ -494,6 +496,12 @@ CGTN,http://221.232.196.210:7777/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&a
 广东珠江,http://110.72.64.128:808/hls/24/index.m3u8
 广东珠江,http://110.72.72.245:808/hls/24/index.m3u8
 岭南戏曲,http://125.94.175.119:8090/hls/22/index.m3u8
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=6091dcbf43f1d12aa5c95336afc8974f&txTime=19f31298812
+广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=9ca761a6fb5ee3b43f03408fd53e973c&txTime=19f31298812
+广州南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+广州南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=0763a7354fb60a3270d80dd5c17cb169&txTime=19f31298812
 山东教育,http://110.72.78.180:808/hls/36/index.m3u8
 山东教育,http://110.72.84.169:808/hls/36/index.m3u8
 山东教育,http://110.72.67.132:808/hls/36/index.m3u8
