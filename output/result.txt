@@ -2306,7 +2306,7 @@ CHC影迷电影,http://42.227.90.3:9003/hls/59/index.m3u8
 金鹰卡通,http://106.46.119.39:808/hls/60/index.m3u8
 金鹰卡通,http://42.227.90.3:9003/hls/58/index.m3u8
 
-PTV类,#genre#
+IPTV类,#genre#
 IPTV音乐现场,http://125.43.249.76:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV足球,http://123.12.186.240:808/hls/87/index.m3u8
 劲爆体育,http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
