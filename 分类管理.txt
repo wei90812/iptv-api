@@ -1,4 +1,4 @@
-📺央视频道,#genre#
+央视频道,#genre#
 CCTV1：CCTV1#CCTV-1#CCTV1HD#CCTV-1HD#CCTV1HD#CCTV1-HD#CCTV-1HD#CCTV1SD#CCTV-1超清#CCTV1高清#CCTV-1高清#CCTV1-高清综合#CCTV1-综合#CCTV-1综合#CCTV1-综合HD#CCTV-01#CCTV-01_ITV#CCTV-01北联#CCTV-01电信#CCTV-01东联#CCTV-01高码#CCTV-01高清#CCTV-01广西#CCTV-01梅州#CCTV-01咪咕#CCTV-01汝阳#CCTV-01山东#CCTV-01上海#CCTV-01斯特#CCTV-01四川#CCTV-01太原#CCTV-01天津#CCTV-01影视#CCTV-01浙江#CCTV-01重庆#CCTV1综合#CCTV1(B)#CCTV1[1920*1080]#CCTV1「IPV6」#CCTV1-标清#CCTV-1综合ᴴᴰ#中央一台#中央一套移动#中央1高清#CCTV01#sCCTV1-综合#CCTV-1+高清#CCTV-1-高清#CCTV1综合频道#中央电视台综合频道#CCTV电视台综合频道#CCTV电视台综合频道（CCTV1）#央视综合#CCTV01#CCTV01咪咕#CCTV-1 (1080p)#CCTV-1 (720p)#CCTV-1_测试采集#CCTV1-测试#cctv1#CCTV+ 1#CCTV-01FYtv#CCTV-01广州
 CCTV2：CCTV2#CCTV2#CCTV-2#CCTV2HD#CCTV-2HD#CCTV2高清#CCTV2HD#CCTV2-HD#CCTV-2HD#CCTV2SD#CCTV2-财经#CCTV-2财经#CCTV2高清#CCTV-2高清#CCTV2-高清财经#CCTV-2高清测试#CCTV-02北联#CCTV-02电信#CCTV-02东联#CCTV-02高码#CCTV-02高清#CCTV-02广西#CCTV-02梅州#CCTV-02咪咕#CCTV-02汝阳#CCTV-02山东#CCTV-02上海#CCTV-02斯特#CCTV-02四川#CCTV-02太原#CCTV-02天津#CCTV-02影视#CCTV-02浙江#CCTV-02重庆#CCTV2财经#CCTV2[1280*720]#CCTV2「IPV6」#CCTV20241#CCTV22#CCTV250#CCTV2-标清#CCTV-2财经ᴴᴰ#中央二台#中央二套移动#中央2高清#aCCTV2#CCTV02#sCCTV2-财经#CCTV-2+高清#CCTV-2-高清#财经#CCTV02#CCTV02咪咕#CCTV-2 (1080p)#CCTV-2 (720p)#cctv2#CCTV+ 2#CCTV-02#CCTV-02FYtv#CCTV-02广州
 CCTV3：CCTV3#CCTV3#CCTV-3#CCTV3HD#CCTV-3HD#CCTV-3SD#CCTV3高清#CCTV3HD#CCTV3-HD#CCTV-3HD#CCTV3SD#CCTV-3超清#CCTV3高清#CCTV-3高清#CCTV-3音乐#CCTV3-综艺#CCTV-3综艺#CCTV-03#CCTV-03_ITV#CCTV-03北联#CCTV-03电信#CCTV-03东联#CCTV-03高码#CCTV-03高清#CCTV-03广西#CCTV-03梅州#CCTV-03咪咕#CCTV-03汝阳#CCTV-03山东#CCTV-03上海#CCTV-03斯特#CCTV-03四川#CCTV-03太原#CCTV-03天津#CCTV-03影视#CCTV-03浙江#CCTV-03重庆#CCTV3综艺#CCTV3[1920*1080]#CCTV3「IPV6」#CCTV3-标清#CCTV-3-高清#CCTV-3综艺ᴴᴰ#中央三台#中央三套移动#中央3套#中央3综艺#CCTV-3高清测试#中央3标清#acctv3#CCTV03#sCCTV3-综艺#CCTV-3+高清#综艺#CCTV电视台综艺频道#CCTV03#CCTV03咪咕#CCTV3 综艺频#CCTV-3 (1080p)#CCTV-3 (720p)#CCTV-3综艺（高清）#cctv3#CCTV3-综艺-高清#4CCTV3-综艺#CCTV-03FYtv#CCTV-03广州
@@ -36,7 +36,7 @@ CGTN法语：CGTN法语#CGTN法语HD#CGTN法语高清#CGTN-法语#CGTN法语SD#C
 CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 2025年9.3阅兵：2025年9.3阅兵
 
-💰央视付费频道,#genre#
+央视付费频道,#genre#
 兵器科技：兵器科技#兵器科技#CCTV兵器#CCTV兵器科技#CCTV-兵器科技#CCTV兵器科技HD#CCTVweapon#CCTV-Weapon & Technology#CCTV-Weapon & Technology (1080p)#CCTV-兵器科技_8M
 第一剧场：第一剧场#第一剧场#CCTV第一剧场#CCTV-第一剧场#CCTV第一剧场HD#风云剧场#中国电影#CCTV电影轮播#CCTVthe#CCTV-The First Theater#CCTV-The First Theater (1080p)#第一剧场高清#CCTV第一剧场高清
 风云剧场：风云剧场#风云剧场#CCTV风云剧场#CCTV-风云剧场#CCTV风云剧场HD#CCTV-Storm Theater#CCTV-Storm Theater (1080p)#风云剧场高清#CCTV风云剧场高清
@@ -59,7 +59,7 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 中学生：新影中学生
 中华特产：中华特产
 
-📡卫视频道,#genre#
+卫视频道,#genre#
 安多卫视：安多卫视#安多卫视SD#安多卫视咪咕#安多卫视4m
 安徽卫视：安徽卫视#安徽卫视高清#安徽卫视HD#安徽卫视SD#安徽卫视高清#安徽卫视-高清#安徽卫视移动#安微卫视HD#安微卫视移动#安微卫视咪咕#[BD]安徽卫视-mcp[geo-blocked]#安徽卫视-mcp
 北京卫视：北京卫视#北京卫视HD#北京卫视高清#北京卫视4K#北京卫视4K-#北京卫视HD#北京卫视SD#北京卫视高清#北京卫视-高清#BRTV北京卫视#BRTV北京卫视HD#BTV北京卫视#北京卫视移动#BRTV-北京卫视#北京卫视咪咕#[BD]北京卫视4k超#[BD]北京卫视4k超高清[geo-blocked]#[HD]brtv北京卫视[geo-blocked]#北京衛視 (1080p) [Geo-blocked]#BRTV 北京卫视 [Not 24/7]#BRTV 北京卫视#北京衛視#北京卫视4k#北京卫视4k超#brtv北京卫视#BRTV 北京卫视 (1080p)#北京高清#北京卫视高4K#北京卫视高清台
@@ -103,7 +103,7 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 浙江卫视：浙江卫视#浙江卫视HD#浙江卫视高清#浙江卫视4K#浙江卫视4K50P#浙江卫视HD#浙江卫视SD#浙江卫视超清#浙江卫视高清#浙江卫视-高清#渐江卫视SD#浙江卫视移动#浙江卫视高清台#浙江卫视咪咕#[BD]浙江卫视-mcp#[BD]浙江卫视4k超高清[geo-blocked]#浙江卫视4k#浙江高清
 重庆卫视：重庆卫视#重庆卫视HD#重庆卫视高清#重庆卫视HD#重庆卫视SD#重庆卫视高清#重庆卫视移动#重庆#重庆卫视咪咕
 
-☘️地方频道,#genre#
+地方频道,#genre#
 湖北综合：湖北综合#湖北新闻综合#湖北综合#湖北综合#湖北综合SD
 湖北公共新闻：湖北公共新闻#湖北公共#湖北公共新闻#湖北公共新闻#湖北公共新闻SD#公共·新闻
 湖北电视台：湖北电视台#湖北电视台#湖北电视台
@@ -1240,7 +1240,7 @@ i成都：i成都
 榆林综合：榆林综合
 安康综合：安康综合
 商洛综合：商洛综合
-多彩文体：多彩文化#多彩文体
+多彩文体：多彩文化#多彩文体##多彩文体高清
 
 甘肃公共：甘肃公共
 甘肃国际：甘肃国际
@@ -1327,7 +1327,7 @@ i成都：i成都
 胡杨河综合：胡杨河综合
 三农频道：农民频道#三农频道#河北三农高清
 
-🌊港·澳·台,#genre#
+港·澳·台,#genre#
 凤凰香港：凤凰香港#凤凰香港#凤凰香港HD#凤凰香港高清#香港台#凤凰卫视香港#凤凰台
 凤凰中文：凤凰中文#凤凰卫视#凤凰中文HD#凤凰中文高清#凤凰卫视HD#凤凰卫视高清#凤凰卫视中文台#凤凰中文台#凤凰卫视中文#[HD]鳳凰衛視中文
 凤凰资讯：凤凰资讯#凤凰卫视资讯台#凤凰卫视资讯台#凤凰咨讯#凤凰资讯台HD#凤凰资讯#凤凰资讯HD#凤凰资讯高清#凤凰咨询台#凤凰卫视资讯
@@ -1364,7 +1364,7 @@ TVBS NEWS：TVBS NEWS
 澳视卫视：[BD]ช่อง 澳视macau衛視#ช่อง 澳视macau衛視#澳亚卫视台
 
 
-🎬电影频道,#genre#
+电影频道,#genre#
 CHC家庭影院：CHC家庭影院#CHC家庭影院HD#CHC家庭影院高清#CHC家庭电影高清#CHC 家庭影院
 CHC动作电影：CHC动作电影#CHC动作电影HD#CHC动作电影高清#CHC动作影院高清#CHC高清影院高清#动作电影#影视剧场-2#CHC 动作电影
 CHC影迷电影：CHC影迷电影#CHC高清电影#影迷电影#CHC高清#影视剧场-1#CHC高清电影高清#高清电影#CHC 高清电影#高清影院
@@ -1502,7 +1502,7 @@ IPTV家庭影院：IPTV家庭影院#IPTV家庭影院#IPTV家庭影院HD#IPTV家�
 华数电视剧：华数电视剧#华数电视剧#华数电视剧HD#华数电视剧高清
 深圳电视剧：深圳电视剧#深圳电视剧#深圳电视剧HD#深圳电视剧高清#深圳电视剧频道
 
-👛数字付费,#genre#
+数字付费,#genre#
 全纪实：全纪实#全纪实#全纪实HD#全纪实高清#全纪实乐游高清#乐游
 都市剧场：都市剧场#都市剧场#都市剧场HD#都市剧场高清
 法治天地：法治天地#法治天地#法治天地HD#法治天地高清
@@ -1533,7 +1533,7 @@ IPTV家庭影院：IPTV家庭影院#IPTV家庭影院#IPTV家庭影院HD#IPTV家�
 四海钓鱼：四海钓鱼
 多彩文体：多彩文体#多彩文体高清
 
-🪁少儿频道,#genre#
+少儿频道,#genre#
 4K少儿：4K少儿#4K少儿
 IPTV少儿动画：IPTV少儿动画#IPTV少儿动画#IPTV少儿动画HD#IPTV少儿动画高清
 成都少儿：成都少儿
@@ -1582,7 +1582,7 @@ IPTV少儿动画：IPTV少儿动画#IPTV少儿动画#IPTV少儿动画HD#IPTV少�
 少儿动画：少儿动画#少儿动漫
 百事通卡通：百事通卡通
 
-🏵️IPTV类,#genre#
+PTV类,#genre#
 IPTV3：IPTV3#IPTV3#IPTV3+#IPTV3HD#IPTV3高清#IPTV3+HD#IPTV3+高清#IPTV3(轮播)#IPTV3(轮播)#iptv3+#iptv3+#收视指南#IPTV收视指南
 IPTV5：IPTV5#IPTV5#IPTV5+#IPTV5HD#IPTV5高清#IPTV5+HD#IPTV5+高清#IPTV5(轮播)#IPTV5(轮播)#iptv5+#iptv5+#高清纪实#IPTV体育
 IPTV6：IPTV6#IPTV6#IPTV6+#IPTV6HD#IPTV6高清#IPTV6+HD#IPTV6+高清#iptv6+#iptv6+
@@ -1642,7 +1642,7 @@ IPTV足球：IPTV足球#IPTV足球#IPTV足球#足球#足球频道高清
 睛彩篮球：睛彩篮球
 睛彩羽毛球：睛彩羽毛球#睛彩羽毛球HD
 
-🏵️4K类,#genre#
+4K类,#genre#
 百事通4K：百事通4K
 4K花园：4K花园#4K花园#4K花园高清
 4K纪实：4K纪实#4K纪实
