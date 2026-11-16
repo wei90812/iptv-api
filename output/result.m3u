@@ -1995,6 +1995,8 @@ http://183.94.146.79:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 https://chibi-live21.cjyun.org/10138/s10138-CBTV1.m3u8?auth_key=1798732799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-90d01dc5111710ab4196d08997323917
 #EXTINF:-1 tvg-name="崇阳综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/崇阳综合" group-title="地方频道",崇阳综合
 http://61.184.176.248:10500/live/live.m3u8
+#EXTINF:-1 tvg-name="恩施新闻" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/恩施新闻" group-title="地方频道",恩施新闻
+https://46240-live.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3724.m3u8?auth_key=3328907803-0-0-321fd94de673ddac51716682fcb59297&extra_key=otZkd8cRloD44exAcfs76VOKG0XxTIC_6EDN2NNyydxkHXO7SomobKCJ5pmP3ccWbAiKKFTBhCrxNiU592hEpO7_524eRtN2aE93uigIzbz68_WjbTJH9RM4h_VYBFPtQVk6Kfup5BnPHGpZjWXVBr2fq_1u-rkYE98yQjb2gqU
 #EXTINF:-1 tvg-name="恩施文旅" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/恩施文旅" group-title="地方频道",恩施文旅
 https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
 #EXTINF:-1 tvg-name="荆门科技文旅" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/荆门科技文旅" group-title="地方频道",荆门科技文旅
@@ -2177,6 +2179,8 @@ http://60.10.50.14:808/hls/63/index.m3u8
 http://60.10.50.14:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-name="廊坊公共" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/廊坊公共" group-title="地方频道",廊坊公共
 http://60.10.50.14:808/hls/68/index.m3u8
+#EXTINF:-1 tvg-name="固安综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/固安综合" group-title="地方频道",固安综合
+http://60.10.50.14:808/hls/99/index.m3u8
 #EXTINF:-1 tvg-name="山西社会与法制" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/山西社会与法制" group-title="地方频道",山西社会与法制
 http://171.127.87.73:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吕梁二台" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/吕梁二台" group-title="地方频道",吕梁二台
@@ -2621,14 +2625,38 @@ http://119.62.24.75:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://119.62.24.75:50085/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/云南娱乐" group-title="地方频道",云南娱乐
 http://119.62.24.75:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="甘肃公共" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/甘肃公共" group-title="地方频道",甘肃公共
+https://live.gstv.com.cn/live/c6gljof.m3u8
 #EXTINF:-1 tvg-name="甘肃科教" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/甘肃科教" group-title="地方频道",甘肃科教
 https://live.gstv.com.cn/live/8lr1gvm.m3u8
+#EXTINF:-1 tvg-name="甘肃文化" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/甘肃文化" group-title="地方频道",甘肃文化
+https://live.gstv.com.cn/live/lg2va3a.m3u8
+#EXTINF:-1 tvg-name="甘肃移动" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/甘肃移动" group-title="地方频道",甘肃移动
+https://live.gstv.com.cn/live/j6od116.m3u8
 #EXTINF:-1 tvg-name="兰州新闻" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/兰州新闻" group-title="地方频道",兰州新闻
 https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 #EXTINF:-1 tvg-name="兰州旅游" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/兰州旅游" group-title="地方频道",兰州旅游
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
-#EXTINF:-1 tvg-name="固安综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/固安综合" group-title="地方频道",固安综合
-http://60.10.50.14:808/hls/99/index.m3u8
+#EXTINF:-1 tvg-name="苏州娱乐" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/苏州娱乐" group-title="地方频道",苏州娱乐
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 tvg-name="文旅纪录" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文旅纪录" group-title="地方频道",文旅纪录
+https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1 tvg-name="南宁新闻" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/南宁新闻" group-title="地方频道",南宁新闻
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+#EXTINF:-1 tvg-name="文体娱乐" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文体娱乐" group-title="地方频道",文体娱乐
+http://play1-qk.nmtv.cn/live/2319general.m3u8
+#EXTINF:-1 tvg-name="农牧频道" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/农牧频道" group-title="地方频道",农牧频道
+http://play1-qk.nmtv.cn/live/2329general.m3u8
+#EXTINF:-1 tvg-name="文化影视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文化影视" group-title="地方频道",文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-name="文成综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文成综合" group-title="地方频道",文成综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/萧山综合" group-title="地方频道",萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-name="龙泉综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/龙泉综合" group-title="地方频道",龙泉综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 tvg-name="上虞综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/上虞综合" group-title="地方频道",上虞综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/凤凰香港" group-title="港·澳·台",凤凰香港
 http://183.239.248.218:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/凤凰中文" group-title="港·澳·台",凤凰中文
@@ -2649,6 +2677,8 @@ http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/TVBS%20NEWS" group-title="港·澳·台",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/纬来体育" group-title="港·澳·台",纬来体育
+https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CHC影迷电影" group-title="电影频道",CHC影迷电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CHC影迷电影" group-title="电影频道",CHC影迷电影
@@ -2657,6 +2687,14 @@ http://42.227.90.3:9003/hls/59/index.m3u8
 http://39.165.39.49:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="电视剧频道" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/电视剧频道" group-title="电影频道",电视剧频道
 http://106.46.119.39:808/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20AOD" group-title="电影频道",Astro AOD
+https://cdn3.indevs.in/stream/live/aod/
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20AEC" group-title="电影频道",Astro AEC
+https://cdn3.indevs.in/stream/live/aec/
+#EXTINF:-1 tvg-name="Astro 爱奇艺" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20爱奇艺" group-title="电影频道",Astro 爱奇艺
+https://cdn3.indevs.in/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="Astro 欢喜台" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20欢喜台" group-title="电影频道",Astro 欢喜台
+https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/经典电影" group-title="电影频道",经典电影
 http://42.227.90.3:9003/hls/101/index.m3u8
 #EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/谍战剧场" group-title="电影频道",谍战剧场
@@ -2737,40 +2775,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 #EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/河南电视剧" group-title="电影频道",河南电视剧
 http://182.122.74.36:8089/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20AOD" group-title="电影频道",Astro AOD
-https://cdn3.indevs.in/stream/live/aod/
-#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20AEC" group-title="电影频道",Astro AEC
-https://cdn3.indevs.in/stream/live/aec/
-#EXTINF:-1 tvg-name="Astro 爱奇艺" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20爱奇艺" group-title="电影频道",Astro 爱奇艺
-https://cdn3.indevs.in/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="Astro 欢喜台" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Astro%20欢喜台" group-title="电影频道",Astro 欢喜台
-https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/全纪实" group-title="数字付费",全纪实
 http://39.165.39.49:85/tsfile/live/1126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/新视觉" group-title="数字付费",新视觉
 http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/足球" group-title="数字付费",足球
 http://42.231.62.56:808/hls/87/index.m3u8
-#EXTINF:-1 tvg-name="苏州娱乐" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/苏州娱乐" group-title="数字付费",苏州娱乐
-https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-#EXTINF:-1 tvg-name="文旅纪录" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文旅纪录" group-title="数字付费",文旅纪录
-https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 tvg-name="南宁新闻" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/南宁新闻" group-title="数字付费",南宁新闻
-https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 tvg-name="文体娱乐" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文体娱乐" group-title="数字付费",文体娱乐
-http://play1-qk.nmtv.cn/live/2319general.m3u8
-#EXTINF:-1 tvg-name="农牧频道" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/农牧频道" group-title="数字付费",农牧频道
-http://play1-qk.nmtv.cn/live/2329general.m3u8
-#EXTINF:-1 tvg-name="文化影视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文化影视" group-title="数字付费",文化影视
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-name="文成综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/文成综合" group-title="数字付费",文成综合
-http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-#EXTINF:-1 tvg-name="萧山综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/萧山综合" group-title="数字付费",萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 tvg-name="龙泉综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/龙泉综合" group-title="数字付费",龙泉综合
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 tvg-name="上虞综合" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/上虞综合" group-title="数字付费",上虞综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/广东少儿" group-title="少儿频道",广东少儿
 http://120.237.39.10:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/广东少儿" group-title="少儿频道",广东少儿
@@ -2799,53 +2809,43 @@ http://42.227.90.3:9003/hls/58/index.m3u8
 http://221.7.49.226:50085/tsfile/live/0018_7.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/金鹰卡通" group-title="少儿频道",金鹰卡通
 http://106.46.119.39:808/hls/60/index.m3u8
-#EXTINF:-1 tvg-name="IPTV音乐现场" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/IPTV音乐现场" group-title="IPTV类",IPTV音乐现场
+#EXTINF:-1 tvg-name="IPTV音乐现场" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/IPTV音乐现场" group-title="IPTV频道",IPTV音乐现场
 http://42.238.232.95:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/劲爆体育" group-title="IPTV类",劲爆体育
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/劲爆体育" group-title="IPTV频道",劲爆体育
 http://221.7.49.226:50085/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CNA" group-title="国际",CNA
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CNA" group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="RT News" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/RT%20News" group-title="国际",RT News
+#EXTINF:-1 tvg-name="RT News" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/RT%20News" group-title="国际频道",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="TV Brics" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/TV%20Brics" group-title="国际",TV Brics
+#EXTINF:-1 tvg-name="TV Brics" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/TV%20Brics" group-title="国际频道",TV Brics
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/TRT%20World" group-title="国际",TRT World
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/TRT%20World" group-title="国际频道",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="One American News" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/One%20American%20News" group-title="国际",One American News
+#EXTINF:-1 tvg-name="One American News" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/One%20American%20News" group-title="国际频道",One American News
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="WION" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/WION" group-title="国际",WION
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/WION" group-title="国际频道",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Arirang" group-title="国际",Arirang
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Arirang" group-title="国际频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/RT%20Documentary" group-title="国际",RT Documentary
+#EXTINF:-1 tvg-name="RT Documentary" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/RT%20Documentary" group-title="国际频道",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-name="Redbull" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Redbull" group-title="国际",Redbull
+#EXTINF:-1 tvg-name="Redbull" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Redbull" group-title="国际频道",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-name="HollyWire" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/HollyWire" group-title="国际",HollyWire
+#EXTINF:-1 tvg-name="HollyWire" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/HollyWire" group-title="国际频道",HollyWire
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Wild%20Earth" group-title="国际",Wild Earth
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Wild%20Earth" group-title="国际频道",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-name="Universal Movies" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Movies" group-title="国际",Universal Movies
+#EXTINF:-1 tvg-name="Universal Movies" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Movies" group-title="国际频道",Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/e7275bfb-fb8d-49d8-969f-854481fa7e71/4.m3u8
-#EXTINF:-1 tvg-name="Universal Action" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Action" group-title="国际",Universal Action
+#EXTINF:-1 tvg-name="Universal Action" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Action" group-title="国际频道",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/fd4a4071-8a85-4989-9e8b-446ace3b7127/4.m3u8
-#EXTINF:-1 tvg-name="Universal Crime" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Crime" group-title="国际",Universal Crime
+#EXTINF:-1 tvg-name="Universal Crime" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Crime" group-title="国际频道",Universal Crime
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/8c099bf8-0c15-481f-a109-1a3162361da8/4.m3u8
-#EXTINF:-1 tvg-name="CW Gold" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CW%20Gold" group-title="国际",CW Gold
+#EXTINF:-1 tvg-name="CW Gold" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CW%20Gold" group-title="国际频道",CW Gold
 https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
-#EXTINF:-1 tvg-name="CW Forever" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CW%20Forever" group-title="国际",CW Forever
+#EXTINF:-1 tvg-name="CW Forever" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CW%20Forever" group-title="国际频道",CW Forever
 https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
-#EXTINF:-1 tvg-name="Universal Monsters" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Monsters" group-title="国际",Universal Monsters
+#EXTINF:-1 tvg-name="Universal Monsters" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Universal%20Monsters" group-title="国际频道",Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
-#EXTINF:-1 tvg-name="Drama Movies" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Drama%20Movies" group-title="国际",Drama Movies
+#EXTINF:-1 tvg-name="Drama Movies" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/Drama%20Movies" group-title="国际频道",Drama Movies
 https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
-#EXTINF:-1 tvg-name="恩施新闻频道" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/恩施新闻频道" group-title="其他",恩施新闻频道
-https://46240-live.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_3724.m3u8?auth_key=3328907803-0-0-321fd94de673ddac51716682fcb59297&extra_key=otZkd8cRloD44exAcfs76VOKG0XxTIC_6EDN2NNyydxkHXO7SomobKCJ5pmP3ccWbAiKKFTBhCrxNiU592hEpO7_524eRtN2aE93uigIzbz68_WjbTJH9RM4h_VYBFPtQVk6Kfup5BnPHGpZjWXVBr2fq_1u-rkYE98yQjb2gqU
-#EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/甘肃文化影视" group-title="其他",甘肃文化影视
-https://live.gstv.com.cn/live/lg2va3a.m3u8
-#EXTINF:-1 tvg-name="甘肃移动" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/甘肃移动" group-title="其他",甘肃移动
-https://live.gstv.com.cn/live/j6od116.m3u8
-#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/甘肃公共应急" group-title="其他",甘肃公共应急
-https://live.gstv.com.cn/live/c6gljof.m3u8
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/纬来体育" group-title="其他",纬来体育
-https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
