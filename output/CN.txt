@@ -52,6 +52,12 @@ CGTN法语,https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802L
 南国都市,https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=6594e9d5&txSecret=e783742d1233ae402ec4566b8537ca17
 南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 南国都市,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
+
+甘肃文化影视,https://live.gstv.com.cn/live/lg2va3a.m3u8
+甘肃移动,https://live.gstv.com.cn/live/j6od116.m3u8
+甘肃少儿,https://live.gstv.com.cn/live/456r6be.m3u8
+甘肃科教,https://live.gstv.com.cn/live/8lr1gvm.m3u8
+甘肃公共应急,https://live.gstv.com.cn/live/c6gljof.m3u8
 上海教育,http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
 南京教科,https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 四川文化旅游,https://live.0593tv.cn/live/d1znvar7tabf.m3u8
