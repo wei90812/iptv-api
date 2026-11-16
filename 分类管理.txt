@@ -30,9 +30,9 @@ CETV早期教育：CETV早期教育#CETV早期教育HD#CETV早期教育高清#CE
 CGTN：CGTN#CGTNHD#CGTN高清#CGTN新闻#CGTNSD#CGTN国际#CCTV英语新闻#英语频道#中国环球电视网#CGTN英文纪录#CGTN-英文纪录#CGTN英语#CGTN-英语#CGTN英语HD#CGTN-英语高清#CGTN英语高清#CGTN-英语新闻#CGTN新闻#CGTN新闻HD#CGTN英文记录#CGTV#GGTN#CCTN#CGTNEnglish#CTGN英语#CGTN 英语高清
 CGTN纪录：CGTN纪录#CGTN记录HD#CGTN记录#CGTN纪录高清#CGTN记录HD#CGTN-纪录(国际版)#CGTN纪录HD#CGTNDOCUMENTARY#CGTN-DOCUMENTARY（纪实）#GTGN纪录
 CGTN阿语：CGTN阿语#CGTN阿拉伯语HD#CGTN阿语高清#CGTN阿拉伯语#CGTN阿拉伯#CGTN-阿拉伯语#CGTN阿拉伯语高清#CGTN-阿拉伯语国际#CGTN阿语HD#CGTN阿拉伯语国际#阿拉伯语#CGTN-阿#CGTN Arabic#CCTV阿拉伯语
-CGTN俄语：CGTN俄语#CGTN俄语HD#CGTN俄语高清#CGTN-俄语#CGTN-俄语国际#CGTN俄语国际#CCTV-俄语#CCTV俄语#俄语频道#CGTNPYCCKИЙ
-CGTN西语：CGTN西语#CGTN西班牙语HD#CGTN西语高清#CGTN西班牙语#CGTN西班牙#CGTN-西班牙语#CGTN西班牙语高清#CGTN-西班牙语国际#CGTN西语HD#CGTN西语#CGTN ESpaÑolSD#CGTN西班牙国际#西班牙语#CGTN-西#CGTNEspañol#CGTN-ESPAÑOL（西班牙语）#CCTV西班牙语
-CGTN法语：CGTN法语#CGTN法语HD#CGTN法语高清#CGTN-法语#CGTN法语SD#CGTN-法语国际#CGTN 法语国际#CCTV法语#法语频道#中国环球电视网法语频道#CGTN-法#CGTNFrançais#CGTN-FRANCAIS（法语）
+CGTN俄语：CGTN俄语#CGTN俄语HD#CGTN俄语高清#CGTN-俄语#CGTN-俄语国际#CGTN俄语国际#CCTV-俄语#CCTV俄语#俄语频道#CGTNPYCCKИЙ#CGTN Russian
+CGTN西语：CGTN西语#CGTN西班牙语HD#CGTN西语高清#CGTN西班牙语#CGTN西班牙#CGTN-西班牙语#CGTN西班牙语高清#CGTN-西班牙语国际#CGTN西语HD#CGTN西语#CGTN ESpaÑolSD#CGTN西班牙国际#西班牙语#CGTN-西#CGTNEspañol#CGTN-ESPAÑOL（西班牙语）#CCTV西班牙语#CGTN Espanol
+CGTN法语：CGTN法语#CGTN法语HD#CGTN法语高清#CGTN-法语#CGTN法语SD#CGTN-法语国际#CGTN 法语国际#CCTV法语#法语频道#中国环球电视网法语频道#CGTN-法#CGTNFrançais#CGTN-FRANCAIS（法语）#CGTN Francais
 CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 2025年9.3阅兵：2025年9.3阅兵
 
@@ -1417,6 +1417,7 @@ IPTV4k电影：IPTV4k电影#IPTV4k电影#IPTV4k电影#IPTV4k#IPTV4k
 IPTV经典电影：IPTV经典电影#IPTV经典电影#IPTV经典电影HD#IPTV经典电影高清
 爱电影：爱电影#爱电影#爱电影(轮播频道)HD
 重溫经典：重溫经典#重温金典
+
 星影：星影
 星光院线：星光院线
 东森电影：东森电影#东森电影#东森电影HD#东森电影高清
