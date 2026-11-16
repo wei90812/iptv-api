@@ -1595,7 +1595,7 @@ IPTV少儿动画：IPTV少儿动画#IPTV少儿动画#IPTV少儿动画HD#IPTV少�
 少儿动画：少儿动画#少儿动漫
 百事通卡通：百事通卡通
 
-IPTV类,#genre#
+IPTV频道,#genre#
 IPTV3：IPTV3#IPTV3#IPTV3+#IPTV3HD#IPTV3高清#IPTV3+HD#IPTV3+高清#IPTV3(轮播)#IPTV3(轮播)#iptv3+#iptv3+#收视指南#IPTV收视指南
 IPTV5：IPTV5#IPTV5#IPTV5+#IPTV5HD#IPTV5高清#IPTV5+HD#IPTV5+高清#IPTV5(轮播)#IPTV5(轮播)#iptv5+#iptv5+#高清纪实#IPTV体育
 IPTV6：IPTV6#IPTV6#IPTV6+#IPTV6HD#IPTV6高清#IPTV6+HD#IPTV6+高清#iptv6+#iptv6+
@@ -1655,7 +1655,7 @@ IPTV足球：IPTV足球#IPTV足球#IPTV足球#足球#足球频道高清
 睛彩篮球：睛彩篮球
 睛彩羽毛球：睛彩羽毛球#睛彩羽毛球HD
 
-4K类,#genre#
+4K频道,#genre#
 百事通4K：百事通4K
 4K花园：4K花园#4K花园#4K花园高清
 4K纪实：4K纪实#4K纪实
@@ -1668,7 +1668,7 @@ IPTV足球：IPTV足球#IPTV足球#IPTV足球#足球#足球频道高清
 绚影4K：绚影4K#绚影4K#绚影4K
 亲子趣学4k：亲子趣学4k#亲子趣学4k#亲子趣学4k
 
-国际,#genre#
+国际频道,#genre#
 CNN：CNN
 BBC News：BBC News
 CNA：CNA
