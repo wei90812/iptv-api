@@ -1417,7 +1417,10 @@ IPTV4k电影：IPTV4k电影#IPTV4k电影#IPTV4k电影#IPTV4k#IPTV4k
 IPTV经典电影：IPTV经典电影#IPTV经典电影#IPTV经典电影HD#IPTV经典电影高清
 爱电影：爱电影#爱电影#爱电影(轮播频道)HD
 重溫经典：重溫经典#重温金典
-
+Astro AOD：Astro AOD
+Astro AEC：Astro AEC
+Astro 爱奇艺：Astro 爱奇艺
+Astro 欢喜台：Astro 欢喜台
 星影：星影
 星光院线：星光院线
 东森电影：东森电影#东森电影#东森电影HD#东森电影高清
@@ -1533,6 +1536,16 @@ IPTV家庭影院：IPTV家庭影院#IPTV家庭影院#IPTV家庭影院HD#IPTV家�
 书画频道：书画#书画频道
 四海钓鱼：四海钓鱼
 多彩文体：多彩文体#多彩文体高清
+苏州娱乐：苏州娱乐
+文旅纪录：文旅纪录
+南宁新闻：南宁新闻
+文体娱乐：文体娱乐
+农牧频道：农牧频道
+文化影视：文化影视
+文成综合：文成综合
+萧山综合：萧山综合
+龙泉综合：龙泉综合
+上虞综合：上虞综合
 
 少儿频道,#genre#
 4K少儿：4K少儿#4K少儿
@@ -1655,3 +1668,27 @@ IPTV足球：IPTV足球#IPTV足球#IPTV足球#足球#足球频道高清
 北京4K超清：北京4K超清#4K超清
 绚影4K：绚影4K#绚影4K#绚影4K
 亲子趣学4k：亲子趣学4k#亲子趣学4k#亲子趣学4k
+
+国际,#genre#
+CNN：CNN
+BBC News：BBC News
+CNA：CNA
+RT News：RT News
+TV Brics：TV Brics
+TRT World：TRT World
+NEWSMAX：NEWSMAX
+One American News：One American News
+WION：WION
+Arirang：Arirang
+RT Documentary：RT Documentary
+Newsy：Newsy
+Redbull：Redbull
+HollyWire：HollyWire
+Wild Earth：Wild Earth
+Universal Movies：Universal Movies
+Universal Action：Universal Action
+Universal Crime：Universal Crime
+CW Gold：CW Gold
+CW Forever：CW Forever
+Universal Monsters：Universal Monsters
+Drama Movies：Drama Movies
