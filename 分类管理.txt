@@ -358,6 +358,7 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 河北杂技：河北杂技
 睛彩河北：睛彩河北
 晴彩河北：靓彩河北#晴彩河北
+河北4K：河北4K
 涿州新闻：涿州新闻
 石家庄都市：石家庄都市
 石家庄生活：石家庄生活
@@ -592,6 +593,7 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 东方海外：东方海外
 乐游：乐游#天天乐游#全纪实乐游
 五星体育：五星体育#五星体育#五星体育HD#五星体育高清#五星体育
+看东方4K：看东方4K
 
 江苏城市：江苏城市#江苏城市#江苏城市HD#江苏城市高清
 江苏导视：江苏导视#江苏导视#江苏导视高清
@@ -660,12 +662,13 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 浙江之江纪录：之江纪录#之江纪录#之江纪录HD#之江纪录高清#浙江纪录#浙江纪录#浙江纪录高清#浙江数码时代
 浙江教科：浙江教科#浙江教育#浙江教育#浙江教育高清
 浙江经济生活：浙江经济生活#浙江经济生活#浙江经济生活HD#浙江经济生活高清#浙江经济#浙江经视
-浙江民生：浙江民生#浙江民生#浙江民生HD#浙江民生高清#浙江民生休闲
+浙江民生：浙江民生#浙江民生#浙江民生HD#浙江民生高清#浙江民生休闲#民生休闲
 浙江钱江：浙江钱江#浙江钱江#浙江钱江HD#浙江钱江高清
 浙江生活：浙江生活#浙江生活#浙江生活高清
 浙江新闻：浙江新闻#浙江新闻#浙江新闻HD#浙江新闻高清#浙江公共新闻
 浙江国际：浙江国际#Zhejiang TV International
 浙江钱江都市：钱江都市#浙江钱江都市
+教科影院：教科影院
 杭州导视：杭州导视#杭州导视#杭州导视HD#杭州导视高清
 杭州明珠：杭州明珠#杭州明珠#杭州明珠HD#杭州明珠高清
 杭州青少：杭州青少#杭州青少#杭州青少高清
@@ -1040,8 +1043,9 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 广西新闻：广西新闻#广西新闻重播
 南宁综合：南宁综合#南宁新闻综合HD#南宁新闻综合
 南宁都市生活：南宁都市生活HD#南宁都市生活
-南宁影视：南宁影视
+南宁影视：南宁影视#南宁娱乐
 南宁公共：南宁公共
+南宁文旅：南宁文旅
 柳州综合：柳州综合
 柳州公共：柳州公共
 桂林综合：桂林综合
@@ -1379,6 +1383,19 @@ TVBS NEWS：TVBS NEWS
 纬来体育：纬来体育
 大立电视台：大立电视台
 耀才财经：耀才财经
+中视新闻：中视新闻
+中天新闻：中天新闻
+TVBS新闻：TVBS新闻
+民视新闻：民视新闻
+华视新闻：华视新闻
+东森新闻：东森新闻
+三立新闻：三立新闻
+LIVE三立：LIVE三立
+澳门综艺：澳门综艺
+澳视卫星：澳视卫星
+澳视澳门：澳视澳门
+澳门体育：澳门体育
+
 
 电影频道,#genre#
 CHC家庭影院：CHC家庭影院#CHC家庭影院HD#CHC家庭影院高清#CHC家庭电影高清#CHC 家庭影院
@@ -1590,7 +1607,7 @@ IPTV少儿动画：IPTV少儿动画#IPTV少儿动画#IPTV少儿动画HD#IPTV少�
 优优宝贝：优优宝贝#优优宝贝#优优宝贝
 内蒙古少儿频道：内蒙古少儿频道
 云南少儿：云南少儿#YNTV-7
-浙江少儿：浙江少儿#浙江少儿#浙江少儿HD#浙江少儿高清
+浙江少儿：浙江少儿#浙江少儿#浙江少儿HD#浙江少儿高清#少儿频道
 郑州少儿儿童：郑州少儿儿童#郑州少儿儿童#郑州少儿儿童
 重庆少儿：重庆少儿#重庆少儿超高清
 宝宝动画：宝宝动画
@@ -1697,3 +1714,19 @@ CW Gold：CW Gold
 CW Forever：CW Forever
 Universal Monsters：Universal Monsters
 Drama Movies：Drama Movies
+NHK World：NHK World
+Sky News：Sky News
+Reuters：Reuters
+Outdoor Channel：Outdoor Channel
+Universal Western：Universal Western
+LG 1 Film：LG 1 Film
+LG 1 Spotlight：LG 1 Spotlight
+LG 1：LG 1
+SBS Drama：SBS Drama
+Tennis Channel：Tennis Channel
+Romance Movies：Romance Movies
+Sci-Fi：Sci-Fi
+Thrillers：Thrillers
+Reality：Reality
+Family：Family
+beIN SPORTS XTRA：beIN SPORTS XTRA
