@@ -911,6 +911,8 @@ http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN.png" group-title="央视频道",CGTN
 https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN.png" group-title="央视频道",CGTN
+http://119.62.24.75:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN纪录.png" group-title="央视频道",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN纪录.png" group-title="央视频道",CGTN纪录
@@ -923,6 +925,8 @@ https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mp
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN俄语.png" group-title="央视频道",CGTN俄语
+http://119.62.24.75:50085/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN西语.png" group-title="央视频道",CGTN西语
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/CGTN法语.png" group-title="央视频道",CGTN法语
@@ -1444,6 +1448,10 @@ http://110.72.77.228:808/hls/1010/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://110.72.67.136:808/hls/1010/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://110.72.76.22:808/hls/1003/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://110.72.76.91:808/hls/1003/index.m3u8
@@ -1758,6 +1766,8 @@ http://60.10.50.14:808/hls/37/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://183.62.8.58:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://livepull-tcyzb.sztv.com.cn/4KBack.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://110.72.82.246:808/hls/1008/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://110.72.80.112:808/hls/1008/index.m3u8
@@ -1971,6 +1981,8 @@ http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 http://183.239.248.218:8181/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://120.237.39.10:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://39.165.39.49:85/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://v4.gh-proxy.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
