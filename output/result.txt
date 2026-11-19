@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV1,http://60.187.246.30:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://60.187.246.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://110.72.79.141:808/hls/54/index.m3u8
@@ -588,6 +589,7 @@ CGTN西语,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN法语,https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+央视付费频道,#genre#
 第一剧场,http://118.79.146.181:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://118.79.146.181:85/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -606,6 +608,7 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 中国交通,http://121.24.99.238:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://118.79.146.181:85/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0
 中国天气,http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
+卫视频道,#genre#
 安徽卫视,http://60.187.246.30:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://60.187.246.195:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://118.79.146.181:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1559,6 +1562,7 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 重庆卫视,http://183.239.248.218:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://139.227.221.198:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://119.62.24.75:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+地方频道,#genre#
 湖北综合,http://183.94.146.79:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北教育,http://183.94.146.79:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北垄上,http://183.94.146.79:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1983,6 +1987,7 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+港·澳·台,#genre#
 凤凰香港,http://183.239.248.218:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://183.239.248.218:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://183.239.248.218:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1994,6 +1999,7 @@ TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 TVBS,http://122.252.179.46:9003/hls/42/index.m3u8
 纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
+电影频道,#genre#
 CHC动作电影,http://118.79.146.181:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 电视剧频道,http://39.165.39.49:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 家庭庭院,http://113.9.151.95:9003/hls/28/index.m3u8
@@ -2059,6 +2065,7 @@ Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 浙江科教影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江科教影视,https://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 河南电视剧,http://182.122.74.36:8089/hls/21/index.m3u8
+数字付费,#genre#
 全纪实,http://125.94.173.118:8081/hls/69/index.m3u8
 全纪实,http://118.79.146.181:85/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 全纪实,http://39.165.39.49:85/tsfile/live/1126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2067,6 +2074,7 @@ Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 足球,http://42.231.62.56:808/hls/87/index.m3u8
 游戏风云,http://113.9.151.95:9003/hls/65/index.m3u8
 天元围棋,http://113.9.151.95:9003/hls/73/index.m3u8
+少儿频道,#genre#
 动漫秀场,http://118.79.146.181:85/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 动漫秀场,http://113.9.151.95:9003/hls/57/index.m3u8
 嘉佳卡通,http://218.13.139.26:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2087,8 +2095,10 @@ Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 金鹰卡通,http://139.211.217.79:9004/hls/85/index.m3u8
 金鹰卡通,http://39.165.39.49:85/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://221.7.49.226:50085/tsfile/live/0018_7.m3u8?key=txiptv&playlive=1&authid=0
+IPTV频道,#genre#
 劲爆体育,http://125.94.173.118:8081/hls/68/index.m3u8
 金色学堂,http://113.9.151.95:9003/hls/58/index.m3u8
+未分类,#genre#
 CTV,http://122.252.179.46:9003/hls/36/index.m3u8
 CTI,http://122.252.179.46:9003/hls/39/index.m3u8
 Lotus Macau,http://122.252.179.46:9003/hls/40/index.m3u8
