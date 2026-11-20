@@ -380,7 +380,7 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 邯郸科技教育：邯郸科技教育
 邯郸新闻综合：邯郸新闻综合
 衡水公共：衡水公共
-衡水新闻综合：衡水新闻综合
+衡水新闻综合：衡水新闻综合#衡水新闻
 廊坊公共：廊坊公共
 廊坊新闻：廊坊新闻
 秦皇岛：秦皇岛
@@ -507,6 +507,8 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 长治ETV：长治ETVHD
 长治TV-1：长治TV-1HD
 长治TV-2：长治TV-2HD
+忻州综合：忻州综合
+忻州公共：忻州公共
 
 内蒙古经济：内蒙古经济
 内蒙古经济生活：内蒙古经济生活
@@ -1062,6 +1064,7 @@ CGTN Global Biz：CGTN Global Biz#CGTN财经#CGTN Global Biz (1080p)
 来宾综合：来宾综合
 崇左综合：崇左综合
 灵山综合：灵山综合频道
+平南综合：平南综合#平南综合频道
 
 海南公共：海南公共
 海南文旅：海南文旅
@@ -1398,8 +1401,8 @@ LIVE三立：LIVE三立
 
 
 电影频道,#genre#
-CHC家庭影院：CHC家庭影院#CHC家庭影院HD#CHC家庭影院高清#CHC家庭电影高清#CHC 家庭影院#CHC家庭影视
-CHC动作电影：CHC动作电影#CHC动作电影HD#CHC动作电影高清#CHC动作影院高清#CHC高清影院高清#动作电影#影视剧场-2#CHC 动作电影
+CHC家庭影院：CHC家庭影院#CHC家庭影院HD#CHC家庭影院高清#CHC家庭电影高清#CHC 家庭影院#CHC家庭影视#家庭影视
+CHC动作电影：CHC动作电影#CHC动作电影HD#CHC动作电影高清#CHC动作影院高清#CHC高清影院高清#动作电影#影视剧场-2#CHC 动作电影#CHC动作电影
 CHC影迷电影：CHC影迷电影#CHC高清电影#影迷电影#CHC高清#影视剧场-1#CHC高清电影高清#高清电影#CHC 高清电影#高清影院
 爱情喜剧：爱情喜剧#爱情喜剧#NewTV爱情喜剧#NEWTV爱情喜剧
 超级电影：超级电影#超级电影#超级电影HD#超级电影高清#超级电影#NewTV超级电影
