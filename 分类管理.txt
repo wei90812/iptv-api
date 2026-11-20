@@ -1450,12 +1450,6 @@ iHOT爱喜剧：iHOT爱喜剧
 iHOT爱悬疑：iHOT爱悬疑
 iHOT爱幼教：iHOT爱幼教
 iHOT爱院线：iHOT爱院线
-IPTV动作影院：IPTV动作影院#IPTV动作影院#IPTV动作影院HD#IPTV动作影院高清
-IPTV家庭影院：IPTV家庭影院#IPTV家庭影院#IPTV家庭影院HD#IPTV家庭影院高清
-IPTV4k电影：IPTV4k电影#IPTV4k电影#IPTV4k电影#IPTV4k#IPTV4k
-IPTV经典电影：IPTV经典电影#IPTV经典电影#IPTV经典电影HD#IPTV经典电影高清
-IPTV谍战：IPTV谍战
-IPTV影视：IPTV影视#IPTV影视#IPTV影视HD#IPTV影视高清
 爱电影：爱电影#爱电影#爱电影(轮播频道)HD
 重溫经典：重溫经典#重温金典
 Astro AOD：Astro AOD
@@ -1587,7 +1581,7 @@ IPTV少儿动画：IPTV少儿动画#IPTV少儿动画#IPTV少儿动画HD#IPTV少�
 贵州少儿：贵州少儿
 海看少儿：海看少儿#海看少儿#海看少儿
 海南少儿：海南少儿
-河北少儿：河北少儿#河北少儿科教#河北少儿科教高清
+河北少儿：河北少儿#河北少儿科教#河北少儿科教高清#少儿科教
 黑龙江少儿：黑龙江少儿#黑龙江少儿#黑龙江少儿HD#黑龙江少儿高清#黑龙江农少儿高清#黑龙江农少儿
 济南少儿：济南少儿#济南少儿#济南少儿
 江苏卡通：江苏卡通#江苏卡通#江苏卡通高清
@@ -1628,11 +1622,15 @@ IPTV3：IPTV3#IPTV3#IPTV3+#IPTV3HD#IPTV3高清#IPTV3+HD#IPTV3+高清#IPTV3(轮�
 IPTV5：IPTV5#IPTV5#IPTV5+#IPTV5HD#IPTV5高清#IPTV5+HD#IPTV5+高清#IPTV5(轮播)#IPTV5(轮播)#iptv5+#iptv5+#高清纪实#IPTV体育#5+#IPTV-5
 IPTV6：IPTV6#IPTV6#IPTV6+#IPTV6HD#IPTV6高清#IPTV6+HD#IPTV6+高清#iptv6+#iptv6+#6+#IPTV-6
 IPTV8：IPTV8#IPTV8#IPTV8+#IPTV8HD#IPTV8高清#IPTV8+HD#IPTV8+高清#IPTV8+#IPTV8+(轮播频道)HD#iptv8+#8+#IPTV-8
-IPTV谍战剧场：IPTV谍战剧场#IPTV谍战剧场#IPTV谍战剧场HD#IPTV谍战剧场高清
+IPTV影视：IPTV影视#IPTV影视#IPTV影视HD#IPTV影视高清#IPTV4k电影#IPTV4k电影#IPTV4k电影#IPTV4k#IPTV4k
+IPTV谍战剧场：IPTV谍战剧场#IPTV谍战剧场#IPTV谍战剧场HD#IPTV谍战剧场高清#IPTV谍战
+IPTV动作影院：IPTV动作影院#IPTV动作影院#IPTV动作影院HD#IPTV动作影院高清
+IPTV家庭影院：IPTV家庭影院#IPTV家庭影院#IPTV家庭影院HD#IPTV家庭影院高清
 IPTV都市剧场：IPTV都市剧场#IPTV都市剧场#IPTV都市剧场HD#IPTV都市剧场高清
 IPTV古装剧场：IPTV古装剧场#IPTV古装剧场#IPTV古装剧场
 IPTV家庭剧场：IPTV家庭剧场#IPTV家庭剧场#IPTV家庭剧场
 IPTV经典剧场：IPTV经典剧场#IPTV经典剧场#IPTV经典剧场
+IPTV经典电影：IPTV经典电影#IPTV经典电影#IPTV经典电影HD#IPTV经典电影高清
 IPTV军旅剧场：IPTV军旅剧场#IPTV军旅剧场#IPTV军旅剧场HD#IPTV军旅剧场高清
 IPTV抗战剧场：IPTV抗战剧场#IPTV抗战剧场#IPTV抗战剧场
 IPTV热播剧场：IPTV热播剧场#IPTV热播剧场#IPTV热播剧场HD#IPTV热播剧场高清
