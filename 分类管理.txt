@@ -22,10 +22,10 @@ CCTV16 4K：CCTV164K#CCTV-164K#CCTV164kHDR#CCTV16-4K#CCTV-4K奥林匹克#CCTV16-
 CCTV17：CCTV17#CCTV-17#CCTV17HD#CCTV-17HD#CCTV17农业农村高清#CCTV17HD#CCTV17-HD#CCTV-17HD#CCTV17SD#CCTV17高清#CCTV-17高清#CCTV17农业#CCTV17-农业#CCTV-17农业#CCTV17-农业农村#CCTV-17农业农村#CCTV17农业农村#CCTV-17农业农村#CCTV-17农业农村（5.1环绕声）#CCTV17[1920*1080]#CCTV-17_ITV#CCTV17「IPV6」#CCTV172#CCTV-17北联#CCTV17-标清#CCTV-17电信#CCTV-17高码#CCTV-17广西#CCTV-17梅州#CCTV-17咪咕#CCTV-17农业农村ᴴᴰ#CCTV-17汝阳#CCTV-17上海#CCTV-17四川#CCTV-17太原#CCTV-17天津#CCTV-17影视#CCTV-17浙江#CCTV-17重庆#CCTV17农业农村#中央十七台#中央十七套移动#CCTV17-农村农业#CCTV-17农村农业#中央17高清#CCTV17#农业农村#CCTV17农村农业#CCTV17咪咕#CCTV-17 (1080p)#CCTV-17 (720p)#cctv17#CCTV-17广州
 CCTV4K：CCTV4K#CCTV-4K#CCTV-4K4K50p#CCTV4KSD#cctv4k_10m#CCTV4K超高清#CCTV-4K超高清#CCTV-4k高码#CCTV-4K广西#CCTV-4k浙江#CCTV4k#cctv-4k#cctv-4k超高清#CCTV-4K超#CCTV-4K 4K#CCTV4K超
 CCTV8K：CCTV8K#CCTV-8K#CCTV8K超高清#CCTV-8K超高清[3840*2160]#cctv8k_120m#cctv8k_36m#CCTV8K超高清#CCTV-8k高码#CCTV8k#cctv-8k#cctv-8k超高清#CCTV-8K (1080p)#CCTV-8K超
-CETV1：CETV1#CETV-1#中国教育#中教一台#CETV1HD#CETV1高清#中国教育HD#中国教育高清#中教一台HD#中教一台高清#中国教育一台#CETV1高清#CETV1-HD#CETV1SD#CETV-1标清#CETV1-中教#中央教育1#中国教育-1#中国教育1#中国教育1HD#中国教育1高清#中国教育-1高清#中国教育1台#中国教育电视台1#CETV1中国教育#CETV1中国教育#CETV#CETV1中国教育1#中国教育移动#中国教育CETV-1HD#中央教育#CETV-1（高清）#教育卫视1高清#教育卫视1
-CETV2：CETV2#中教二台#CETV2HD#CETV2高清#中教二台HD#中教二台高清#中国教育二台#CETV2标清#CETV-2#CETV2SD#中央教育2#中国教育-2#中国教育2#中国教育电视台2#CETV2中国教育#CETV2中国教育#中国教育2HD#中国教育CETV-2
-CETV3：CETV3#中教三台#CETV3HD#CETV3高清#中教三台HD#中教三台高清#中国教育三台#中央教育3#CETV-3#CETV3中国教育#CETV3中国教育#中国教育3#中国教育3HD
-CETV4：CETV4#中教四台#CETV4HD#CETV4高清#中教四台HD#中教四台高清#中国教育四台#CETV4标清#CETV-4#CETV4SD#CETV-4高清#中国教育-4#中国教育4频道#中国教育4台#中国教育电视台4#CETV4中国教育#CETV4中国教育#中国教育4#中国教育4HD#CCTV-CET4#中国教育电视台第四频道#中央教育4#教育卫视4高清#教育卫视4
+CETV1：CETV1#CETV-1#中国教育#中教一台#CETV1HD#CETV1高清#中国教育HD#中国教育高清#中教一台HD#中教一台高清#中国教育一台#CETV1高清#CETV1-HD#CETV1SD#CETV-1标清#CETV1-中教#中央教育1#中国教育-1#中国教育1#中国教育1HD#中国教育1高清#中国教育-1高清#中国教育1台#中国教育电视台1#CETV1中国教育#CETV1中国教育#CETV#CETV1中国教育1#中国教育移动#中国教育CETV-1HD#中央教育#CETV-1（高清）#教育卫视1高清#教育卫视1#中国教育1
+CETV2：CETV2#中教二台#CETV2HD#CETV2高清#中教二台HD#中教二台高清#中国教育二台#CETV2标清#CETV-2#CETV2SD#中央教育2#中国教育-2#中国教育2#中国教育电视台2#CETV2中国教育#CETV2中国教育#中国教育2HD#中国教育CETV-2##中国教育2
+CETV3：CETV3#中教三台#CETV3HD#CETV3高清#中教三台HD#中教三台高清#中国教育三台#中央教育3#CETV-3#CETV3中国教育#CETV3中国教育#中国教育3#中国教育3HD#中国教育3
+CETV4：CETV4#中教四台#CETV4HD#CETV4高清#中教四台HD#中教四台高清#中国教育四台#CETV4标清#CETV-4#CETV4SD#CETV-4高清#中国教育-4#中国教育4频道#中国教育4台#中国教育电视台4#CETV4中国教育#CETV4中国教育#中国教育4#中国教育4HD#CCTV-CET4#中国教育电视台第四频道#中央教育4#教育卫视4高清#教育卫视4#中国教育4
 CETV早期教育：CETV早期教育#CETV早期教育HD#CETV早期教育高清#CETV早期#CETV早教#早期教育#早期#早教
 CGTN：CGTN#CGTNHD#CGTN高清#CGTN新闻#CGTNSD#CGTN国际#CCTV英语新闻#英语频道#中国环球电视网#CGTN英文纪录#CGTN-英文纪录#CGTN英语#CGTN-英语#CGTN英语HD#CGTN-英语高清#CGTN英语高清#CGTN-英语新闻#CGTN新闻#CGTN新闻HD#CGTN英文记录#CGTV#GGTN#CCTN#CGTNEnglish#CTGN英语#CGTN 英语高清
 CGTN纪录：CGTN纪录#CGTN记录HD#CGTN记录#CGTN纪录高清#CGTN记录HD#CGTN-纪录(国际版)#CGTN纪录HD#CGTNDOCUMENTARY#CGTN-DOCUMENTARY（纪实）#GTGN纪录
