@@ -1356,7 +1356,7 @@ i成都：i成都
 香港卫视：香港卫视#香港卫视高清#香港卫视HD
 凤凰电影：凤凰电影
 凤凰时政：凤凰时政
-TVB星河：TVB星河#TVB星河#TVB星河HD#TVB星河高清#无线星河
+TVB星河：TVB星河#TVB星河#TVB星河HD#TVB星河高清#无线星河#TVB Star
 TVB翡翠剧集台：TVB翡翠剧集台(TVBDRAMA)#TVBDRAMA
 TVB功夫：TVB功夫
 TVB Plus：TVB Plus#TVBPLUS
@@ -1695,41 +1695,109 @@ IPTV足球：IPTV足球#IPTV足球#IPTV足球#足球#足球频道高清
 亲子趣学4k：亲子趣学4k#亲子趣学4k#亲子趣学4k
 
 国际频道,#genre#
-CNN：CNN
-BBC News：BBC News
-CNA：CNA
-RT News：RT News
-TV Brics：TV Brics
-TRT World：TRT World
-NEWSMAX：NEWSMAX
-One American News：One American News
-WION：WION
+ABC Australia：ABC Australia
+AFN：AFN
+An Hui TV：An Hui TV
+Animal Planet：Animal Planet
+Animax：Animax
+APSARA11：APSARA11
 Arirang：Arirang
-RT Documentary：RT Documentary
-Newsy：Newsy
-Redbull：Redbull
-HollyWire：HollyWire
-Wild Earth：Wild Earth
-Universal Movies：Universal Movies
-Universal Action：Universal Action
-Universal Crime：Universal Crime
-CW Gold：CW Gold
+Astro Premier League 2：Astro Premier League 2
+Astro：Astro
+Bayon TV：Bayon TV
+BBC News：BBC News
+Bein Sport 1：Bein Sport 1
+beIN SPORTS XTRA：beIN SPORTS XTRA
+Bloomberg：Bloomberg
+BTV Beijing：BTV Beijing
+BTV News：BTV News
+C Music：C Music
+CCM：CCM
+CNA：CNA
+CNBC：CNBC
+CNC News：CNC News
+CNC：CNC
+CNN：CNN
+CTI：CTI
+CTN：CTN
+CTV：CTV
+CTV8 - TVB Star：CTV8 - TVB Star
+CTV8：CTV8
 CW Forever：CW Forever
-Universal Monsters：Universal Monsters
+CW Gold：CW Gold
+Discovery：Discovery
 Drama Movies：Drama Movies
-NHK World：NHK World
-Sky News：Sky News
-Reuters：Reuters
-Outdoor Channel：Outdoor Channel
-Universal Western：Universal Western
+Dream World：Dream World
+Dubai CYD：Dubai CYD
+Euro News：Euro News
+Europ Sport：Europ Sport
+Family：Family
+Fashion：Fashion
+Fight Sport：Fight Sport
+Freshnews：Freshnews
+FTV：FTV
+Hits Movies：Hits Movies
+HKS：HKS
+HM：HM
+HNTV：HNTV
+HollyWire：HollyWire
+iTV：iTV
+KBS World：KBS World
 LG 1 Film：LG 1 Film
 LG 1 Spotlight：LG 1 Spotlight
 LG 1：LG 1
-SBS Drama：SBS Drama
-Tennis Channel：Tennis Channel
-Romance Movies：Romance Movies
-Sci-Fi：Sci-Fi
-Thrillers：Thrillers
+Lifetime：Lifetime
+Lotus Macau：Lotus Macau
+Love 4 Nature：Love 4 Nature
+MyTV：MyTV
+NEWSMAX：NEWSMAX
+Newsy：Newsy
+NHK World：NHK World
+One American News：One American News
+Outdoor Channel：Outdoor Channel
+Phoenix：Phoenix
+PPCTV 10：PPCTV 10
+PPCTV 3：PPCTV 3
+PPCTV 6：PPCTV 6
+PPCTV 9：PPCTV 9
 Reality：Reality
-Family：Family
-beIN SPORTS XTRA：beIN SPORTS XTRA
+Redbull：Redbull
+Reuters：Reuters
+RHM：RHM
+ROCK Action：ROCK Action
+Romance Movies：Romance Movies
+RT Documentary：RT Documentary
+RT News：RT News
+SBN：SBN
+SBS Drama：SBS Drama
+Sci-Fi：Sci-Fi
+SEA TV：SEA TV
+Shen Zhen TV：Shen Zhen TV
+Sky News：Sky News
+Skynet 1：Skynet 1
+Tennis Channel：Tennis Channel
+Thai 8：Thai 8
+Thairat：Thairat
+Thrillers：Thrillers
+TRT World：TRT World
+True SPOTV2：True SPOTV2
+True Wild：True Wild
+TV 5 Monde：TV 5 Monde
+TV Brics：TV Brics
+TV9：TV9
+TVK：TVK
+TVK2：TVK2
+TVN Movies：TVN Movies
+Universal Action：Universal Action
+Universal Crime：Universal Crime
+Universal Monsters：Universal Monsters
+Universal Movies：Universal Movies
+Universal Western：Universal Western
+VN Football：VN Football
+W Sport：W Sport
+Wild Earth：Wild Earth
+WION：WION
+World Movies：World Movies
+Yunnan TV：Yunnan TV
+ZEE TV：ZEE TV
+ZJTV：ZJTV
