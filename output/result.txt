@@ -1105,6 +1105,9 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 广州综合,https://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=6594e9b7&txSecret=adb23b34fb694750ac8b8ff14a21a424
 广州综合,http://125.94.173.118:8081/hls/33/index.m3u8
+广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
+广州综合,https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659a5111&txSecret=36b95cb955327d8262812e0e4f772aa5
+广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -1173,6 +1176,7 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+苏州电影,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 浙江之江纪录,https://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
 浙江之江纪录,http://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
@@ -1340,7 +1344,6 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 兰州新闻,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 兰州旅游,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 海东综合,https://hls-hdapp.hdhhy.cn/ashh-tv/zhds.m3u8?sign=26c873e6e3d94ba02aa78c0fbf326dfd&t=1886228277
-苏州娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 文旅纪录,https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南宁新闻,https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
@@ -1356,7 +1359,9 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 凤凰资讯,http://183.239.248.218:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://122.252.179.46:9003/hls/24/index.m3u8
 TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVB星河,http://122.252.179.46:9003/hls/60/index.m3u8
 香港翡翠,http://125.94.173.118:8081/hls/20/index.m3u8
+天映频道,https://cdn3.indevs.in/stream/live/typd/
 TVBS,http://122.252.179.46:9003/hls/42/index.m3u8
 纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -1366,7 +1371,9 @@ CHC家庭影院,http://118.79.146.181:85/tsfile/live/1088_1.m3u8?key=txiptv&amp;
 CHC家庭影院,http://118.79.146.181:85/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://118.79.146.181:85/tsfile/live/1089_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 电视剧频道,http://39.165.39.49:85/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
 Astro AEC,https://cdn3.indevs.in/stream/live/aec/
+Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 谍战剧场,http://120.237.39.10:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
 谍战剧场,http://120.198.95.220:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
@@ -1429,6 +1436,9 @@ Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 生活时尚,http://118.79.146.181:85/tsfile/live/1078_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 足球,http://42.231.62.56:808/hls/87/index.m3u8
 法制天地,http://118.79.146.181:85/tsfile/live/1050_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+陶瓷,http://60.9.239.160:50003/hls/66/index.m3u8
+陶瓷,http://60.9.237.235:50003/hls/66/index.m3u8
+陶瓷,http://121.17.146.166:50003/hls/66/index.m3u8
 
 少儿频道,#genre#
 动漫秀场,http://118.79.146.181:85/tsfile/live/1056_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
