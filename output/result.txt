@@ -463,7 +463,6 @@ CCTV12,http://101.66.195.84:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&aut
 CCTV12,http://60.10.50.14:808/hls/12/index.m3u8
 CCTV12,http://60.187.246.195:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://61.138.99.166:10080/hls/12/index.m3u8
-CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV13,http://123.160.235.204:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://110.72.3.129:808/hls/13/index.m3u8
 CCTV13,http://171.120.69.220:9003/hls/14/index.m3u8
@@ -1821,7 +1820,7 @@ CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2
 少儿动画,http://110.72.3.129:808/hls/60/index.m3u8
 
 IPTV频道,#genre#
-IPTV6,http://110.72.3.129:808/hls/6/index.m3u8
-IPTV8,http://110.72.3.129:808/hls/8/index.m3u8
-IPTV谍战剧场,http://110.72.3.129:808/hls/62/index.m3u8
-IPTV相声小品,http://110.72.3.129:808/hls/61/index.m3u8
+CCTV6,http://110.72.3.129:808/hls/6/index.m3u8
+CCTV8,http://110.72.3.129:808/hls/8/index.m3u8
+广西影视,http://110.72.3.129:808/hls/62/index.m3u8
+广西都市,http://110.72.3.129:808/hls/61/index.m3u8
