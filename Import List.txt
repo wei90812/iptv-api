@@ -1,0 +1,10 @@
+# 这是订阅源列表，每行一个订阅地址
+
+https://raw.githubusercontent.com/wei90812/iptv-api/master/output/CN.txt
+https://raw.githubusercontent.com/wei90812/iptv-api/master/output/result.txt
+https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u
+https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx365.txt
+https://raw.githubusercontent.com/kakaxi-1/zubo/main/itvlist.txt
+https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
