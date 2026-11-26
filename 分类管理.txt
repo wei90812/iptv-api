@@ -1817,7 +1817,7 @@ IPTV足球：IPTV足球#IPTV足球#IPTV足球#足球#足球频道高清
 北京4K超清：北京4K超清#4K超清
 绚影4K：绚影4K#绚影4K#绚影4K
 亲子趣学4k：亲子趣学4k#亲子趣学4k#亲子趣学4k
-4K：4K-1
+4K：4K-1#4K-2
 
 国际频道,#genre#
 ABC Australia：ABC Australia
