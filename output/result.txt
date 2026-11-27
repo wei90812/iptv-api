@@ -3324,4 +3324,4 @@ Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
 金鹰卡通,http://222.89.19.13:808/hls/60/index.m3u8
 
 未分类,#genre#
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+雅安新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
