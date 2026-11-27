@@ -2375,6 +2375,13 @@ CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 广西新闻,http://110.72.79.49:808/hls/206/index.m3u8
 广西新闻,http://110.72.78.130:808/hls/206/index.m3u8
 广西新闻,http://110.72.78.148:808/hls/206/index.m3u8
+贵港综合,http://110.72.66.224:808/hls/7/index.m3u8
+贵港综合,http://110.72.74.88:808/hls/7/index.m3u8
+贵港综合,http://110.72.74.25:808/hls/7/index.m3u8
+贵港综合,http://110.72.83.69:808/hls/7/index.m3u8
+贵港综合,http://110.72.79.49:808/hls/7/index.m3u8
+贵港综合,http://110.72.78.130:808/hls/7/index.m3u8
+贵港综合,http://110.72.78.148:808/hls/7/index.m3u8
 贵港综合,http://110.72.65.186:808/hls/7/index.m3u8
 贵港综合,http://110.72.65.234:808/hls/7/index.m3u8
 贵港综合,http://110.72.64.79:808/hls/7/index.m3u8
@@ -2473,6 +2480,11 @@ CHC家庭影院,http://218.13.139.26:9901/tsfile/live/0018_1.m3u8?key=txiptv&pla
 CHC动作电影,http://58.54.146.106:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 电视剧频道,http://222.89.19.13:808/hls/20/index.m3u8
 都市剧场,http://221.7.49.226:50085/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
+广西影视,http://110.72.66.224:808/hls/201/index.m3u8
+广西影视,http://110.72.74.88:808/hls/201/index.m3u8
+广西影视,http://110.72.74.25:808/hls/201/index.m3u8
+广西影视,http://110.72.83.69:808/hls/201/index.m3u8
+广西影视,http://110.72.78.148:808/hls/201/index.m3u8
 广西影视,http://110.72.65.186:808/hls/201/index.m3u8
 广西影视,http://110.72.65.234:808/hls/201/index.m3u8
 广西影视,http://110.72.64.79:808/hls/201/index.m3u8
@@ -2528,10 +2540,13 @@ CHC动作电影,http://58.54.146.106:85/tsfile/live/1006_1.m3u8?key=txiptv&playl
 杭州影视,http://101.66.199.175:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 杭州影视,http://101.66.198.117:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 杭州影视,http://101.66.194.79:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视剧,http://121.19.134.163:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 河北影视剧,http://121.17.146.72:50003/hls/25/index.m3u8
 河北影视剧,http://60.9.239.160:50003/hls/25/index.m3u8
 河北影视剧,http://121.17.146.89:50003/hls/25/index.m3u8
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+唐山影视,http://121.19.134.163:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://42.227.89.96:9003/hls/21/index.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 笑看风云,https://live.metshop.top/huya/29465858
 甄子丹电影,https://live.metshop.top/huya/11352935
@@ -2552,6 +2567,7 @@ CHC动作电影,http://58.54.146.106:85/tsfile/live/1006_1.m3u8?key=txiptv&playl
 陶瓷,http://121.17.146.89:50003/hls/66/index.m3u8
 少儿频道,#genre#
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+河北少儿,http://121.19.134.163:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿,http://60.9.239.160:50003/hls/26/index.m3u8
 河北少儿,http://121.17.146.72:50003/hls/26/index.m3u8
 河北少儿,http://121.17.146.89:50003/hls/26/index.m3u8
